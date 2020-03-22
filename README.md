@@ -40,3 +40,5 @@ Then run the client.
 ```
  node client.js
 ```
+#### Challenge 3 System Diagram
+![](https://i.ibb.co/rcBTgjG/Untitled-Diagram-1.png "System Diagram")
